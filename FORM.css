@@ -1,0 +1,48 @@
+body {
+    background-color: #c2b7b7;
+    object-fit: cover;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.logo{
+    background-repeat: no-repeat;
+    font-weight: 100;
+    background-color: black;
+    border-radius: 20px;
+}
+h1{
+    color: rgb(250, 244, 244);
+    font-size: 8vh;
+    font-weight: 100;
+}
+fieldset {
+    border-radius: 20px;
+    font-family: Roboto;
+    border-color: rgb(255, 255, 255);
+    margin-left: 30%;
+    width: 40%;
+    background-color: rgba(0, 0, 0, 0.349);
+    color: aliceblue;
+    background-color: black ;
+}
+input {
+    color: rgb(252, 255, 255);
+    align-items: center;
+    margin: 0px 180px;
+}
+.boton {
+    width: 1300px;
+}
+.boton-color {
+    background-color: black;
+    font-size: 25px;
+    font-family: Roboto;
+    margin-left: 50%;
+}
+legend {
+    color: black;
+}
+label {
+color: aliceblue;
+font-size: 1.2em;
+margin: 0px 180px;
+}
